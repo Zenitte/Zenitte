@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zenitte
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python and C
+- 📫 How to reach me joaovitordeos@gmail.com
